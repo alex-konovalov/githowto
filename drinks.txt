@@ -3,3 +3,6 @@ How to make drinks
 1) Coffee - coffee.txt
 
 2) Tea - tea.txt
+
+3) Hot chocolate
+
